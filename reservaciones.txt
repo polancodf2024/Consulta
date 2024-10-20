@@ -1,0 +1,121 @@
+2024-07-20|08:00|5555555|Raul Salas|Clínica de Ecocardiografía, Procedimiento B
+2024-07-21|14:00|5555555|Raul Salas|Clínica de de Insuficiencia Cardiaca, Procedimiento A 
+2024-07-20|11:00|5555515|Pedro Sanchez|Clínica de Ecocardiografía, Procedimiento B
+2024-07-21|08:00|5555525|Guillermina Gomis|Clínica de Ecocardiografía, Procedimiento A
+2024-07-22|08:00|3333333|Brayans Becerra Luna|Clinica de Insuficiencia Cardiaca, Consulta
+2024-07-29|08:00|5555552|Carlos Buendía|Clínica de Anticoagulantes, Consulta
+2024-07-29|09:00|5555552|Carlos Buendía|Clínica de Anticoagulantes, Procedimiento A
+2024-07-29|10:00|5555552|Carlos Buendía|Clínica de Anticoagulantes, Procedimiento B
+2024-07-29|11:00|5555552|Carlos Buendía|Clínica de Cardiología Geriátrica, Consulta
+2024-07-25|13:00|4357534|Carlos chskld|Clínica de Anticoagulantes, Consulta
+2024-07-25|14:00|4357534|Carlos chskld|Clínica de Anticoagulantes, Procedimiento A
+2024-07-25|15:00|4357534|Carlos chskld|Clínica de Anticoagulantes, Procedimiento B
+2024-07-31|13:00|4357534|Carlos chskld|Clínica de Cardiología Geriátrica, Procedimiento A
+2024-08-05|08:00|4354343|dshdslkghsd|Clínica de Anticoagulantes, Consulta
+2024-08-05|09:00|4354343|dshdslkghsd|Clínica de Anticoagulantes, Procedimiento B
+2024-08-05|10:00|4354343|dshdslkghsd|Clínica de Cardiología Geriátrica, Consulta
+2024-10-20|07:00|Carlos Polanco II|082014 - Cateterismo derecho
+2024-10-20|08:00|Carlos Polanco II|082014 - Cateterismo derecho
+2024-10-20|08:00|Carlos Polanco II|000000 - CARDIONEUMOLOGÍA
+2024-10-20|09:00|Carlos Polanco II|082014 - Cateterismo derecho
+2024-10-20|09:00|Carlos Polanco II|000000 - CARDIONEUMOLOGÍA
+2024-10-19|07:00|1234567|Carlos Rowl|060102 - Antígeno-anticuerpo VIH
+2024-10-19|08:00|1234567|Carlos Rowl|082001 - Cateterismo derecho
+2024-10-22|12:00|1234567|dfsdfs|Clínica de Anticoagulantes, Procedimiento A
+2024-10-22|13:00|1234567|dfsdfs|Clínica de Cardiología Geriátrica, Consulta
+2024-10-22|14:00|1234567|dfsdfs|Clínica de Cardiología Geriátrica, Procedimiento B
+2024-10-21|07:00|44556677|Carlos X432t|Clínica de Anticoagulantes, Procedimiento B
+2024-10-21|08:00|44556677|Carlos X432t|Clínica de Cardiología Geriátrica, Procedimiento A
+2024-10-21|09:00|44556677|Carlos X432t|Clínica de Cardio Oncología, Consulta
+2024-10-21|10:00|44556677|Carlos X432t|Clínica de Cardio Oncología, Procedimiento B
+2024-10-22|07:00|66778899|KPax|Clínica de Cardiología Geriátrica, Procedimiento B
+2024-10-22|08:00|66778899|KPax|Clínica de Cardiología Geriátrica, Procedimiento A
+2024-10-22|09:00|66778899|KPax|Clínica de Cardiología Geriátrica, Consulta
+2024-10-23|07:00|5566778899|Kpax 1|Clínica de Cardiología Geriátrica, Consulta
+2024-10-23|08:00|5566778899|Kpax 1|Clínica de Anticoagulantes, Procedimiento B
+2024-10-21|12:00|44556677883|Carlos Polanco|Clínica de Cardio Oncología, Consulta
+2024-10-21|13:00|44556677883|Carlos Polanco|Clínica de Cardiología Geriátrica, Procedimiento B
+2024-10-21|14:00|44556677883|Carlos Polanco|Clínica de Cardiología Geriátrica, Procedimiento A
+2024-10-21|15:00|44556677883|Carlos Polanco|Clínica de Cardiología Geriátrica, Consulta
+2024-10-21|16:00|44556677883|Carlos Polanco|Clínica de Anticoagulantes, Procedimiento B
+2024-10-23|12:00|332244551122|KPax|082014|Cateterismo derecho|BANCO DE SANGRE
+2024-10-23|13:00|332244551122|KPax|082003|Espirometría simple|BANCO DE SANGRE
+2024-10-23|14:00|332244551122|KPax|000000|CARDIONEUMOLOGÍA|BANCO DE SANGRE
+2024-10-23|15:00|332244551122|KPax|060103|Antígeno de superficie y anticuerpo core del virus de la hepatitis B|BANCO DE SANGRE
+2024-10-23|16:00|332244551122|KPax|015012|Consulta externa, interconsulta|CONSULTA EXTERNA
+2024-10-30|12:00|332244551122|KPax|050011|Ecocardiograma transesofágico bidimensional|ECOCARDIOGRAFÍA
+2024-10-24|12:00|11223355667|KPax II|082002|Broncoscopía estándar|BANCO DE SANGRE
+2024-10-24|13:00|11223355667|KPax II|082014|Cateterismo derecho|BANCO DE SANGRE
+2024-10-24|14:00|11223355667|KPax II|082001|Cateterismo derecho con prueba farmacológica|BANCO DE SANGRE
+2024-10-24|15:00|11223355667|KPax II|060103|Antígeno de superficie y anticuerpo core del virus de la hepatitis B|BANCO DE SANGRE
+2024-10-22|10:00|554455443|Carlos KPax|082014|Cateterismo derecho|BANCO DE SANGRE
+2024-10-22|11:00|554455443|Carlos KPax|082001|Cateterismo derecho con prueba farmacológica|BANCO DE SANGRE
+2024-10-29|07:00|554455443|Carlos KPax|000000|CARDIONEUMOLOGÍA|BANCO DE SANGRE
+2024-10-24|07:00|334456656|KPax IV|082001|Cateterismo derecho con prueba farmacológica|BANCO DE SANGRE
+2024-10-24|08:00|334456656|KPax IV|000000|CARDIONEUMOLOGÍA|BANCO DE SANGRE
+2024-10-21|11:00|54353453453|vnsklsdjflskjf|Clínica de Anticoagulantes, Procedimiento B
+2024-10-28|07:00|54353453453|vnsklsdjflskjf|Clínica de Cardiología Geriátrica, Procedimiento A
+2024-10-28|08:00|54353453453|vnsklsdjflskjf|Clínica de Cardio Oncología, Consulta
+2024-10-28|09:00|54353453453|vnsklsdjflskjf|Clínicas de Cardiopatías Congénitas, Consulta
+2024-10-29|08:00|54353443|Y13|Clínica de Cardiología Geriátrica, Procedimiento B
+2024-10-24|09:00|43543534|CArlos K|082014|Cateterismo derecho|BANCO DE SANGRE
+2024-10-24|10:00|43543534|CArlos K|000000|CARDIONEUMOLOGÍA|BANCO DE SANGRE
+2024-10-24|11:00|43543534|CArlos K|060103|Antígeno de superficie y anticuerpo core del virus de la hepatitis B|BANCO DE SANGRE
+2024-10-29|09:00|53454353|fsdfsfsdf|082002|Broncoscopía estándar|BANCO DE SANGRE
+2024-10-29|10:00|53454353|fsdfsfsdf|000000|CARDIONEUMOLOGÍA|BANCO DE SANGRE
+2024-10-29|11:00|534543534534|Carlos Polanco González|082001|Cateterismo derecho con prueba farmacológica|BANCO DE SANGRE
+2024-10-31|07:00|534543534534|Carlos Polanco González|060103|Antígeno de superficie y anticuerpo core del virus de la hepatitis B|BANCO DE SANGRE
+2024-10-31|08:00|534543534534|Carlos Polanco González|060102|Antígeno-anticuerpo VIH|BANCO DE SANGRE
+2024-10-31|09:00|534543534534|Carlos Polanco González|050011|Ecocardiograma transesofágico bidimensional|ECOCARDIOGRAFÍA
+2024-10-31|10:00|534543534534|Carlos Polanco González|015012|Consulta externa, interconsulta|CONSULTA EXTERNA
+2024-10-31|11:00|534543534534|Carlos Polanco González|050010|Ecocardiograma transtorácico bidimensional|ECOCARDIOGRAFÍA
+2024-10-23|09:00|756765756765|Carlos KPax VI|082001|Cateterismo derecho con prueba farmacológica|BANCO DE SANGRE
+2024-10-23|10:00|756765756765|Carlos KPax VI|000000|CARDIONEUMOLOGÍA|BANCO DE SANGRE
+2024-10-23|11:00|756765756765|Carlos KPax VI|060103|Antígeno de superficie y anticuerpo core del virus de la hepatitis B|BANCO DE SANGRE
+2024-10-28|10:00|756765756765|Carlos KPax VI|050011|Ecocardiograma transesofágico bidimensional|ECOCARDIOGRAFÍA
+2024-10-28|11:00|756765756765|Carlos KPax VI|050115|Ecocardiograma transtorácico con estrés farmacologico|ECOCARDIOGRAFÍA
+2024-10-28|12:00|8049583409|Carlos KPax VIII|000000|CARDIONEUMOLOGÍA|BANCO DE SANGRE
+2024-10-28|13:00|8049583409|Carlos KPax VIII|060103|Antígeno de superficie y anticuerpo core del virus de la hepatitis B|BANCO DE SANGRE
+2024-10-28|14:00|8049583409|Carlos KPax VIII|050010|Ecocardiograma transtorácico bidimensional|ECOCARDIOGRAFÍA
+2024-10-28|15:00|8049583409|Carlos KPax VIII|015010|Interconsulta a otras instituciones|CONSULTA EXTERNA
+2024-10-28|16:00|8049583409|Carlos KPax VIII|050115|Ecocardiograma transtorácico con estrés farmacologico|ECOCARDIOGRAFÍA
+2024-11-04|12:00|8049583409|Carlos KPax VIII|015003|Curación|CONSULTA EXTERNA
+2024-11-04|07:00|554354543|vfdbfdf|082001|Cateterismo derecho con prueba farmacológica|BANCO DE SANGRE
+2024-11-04|08:00|554354543|vfdbfdf|015003|Curación|CONSULTA EXTERNA
+2024-10-31|12:00|3425543535|Carlos Polanco  González|082001|Cateterismo derecho con prueba farmacológica|BANCO DE SANGRE
+2024-11-07|07:00|3425543535|Carlos Polanco  González|015003|Curación|CONSULTA EXTERNA
+2024-11-07|08:00|3425543535|Carlos Polanco  González|060102|Antígeno-anticuerpo VIH|BANCO DE SANGRE
+2024-11-07|09:00|3425543535|Carlos Polanco  González|050011|Ecocardiograma transesofágico bidimensional|ECOCARDIOGRAFÍA
+2024-10-25|07:00|4535934890|BBBBBBBBB|060102|Antígeno-anticuerpo VIH|BANCO DE SANGRE
+2024-10-25|08:00|4535934890|BBBBBBBBB|050011|Ecocardiograma transesofágico bidimensional|ECOCARDIOGRAFÍA
+2024-10-30|07:00|84309|AAAAASSSSS|082001|Cateterismo derecho con prueba farmacológica|BANCO DE SANGRE
+2024-10-30|08:00|84309|AAAAASSSSS|050011|Ecocardiograma transesofágico bidimensional|ECOCARDIOGRAFÍA
+2024-10-29|12:00|43543534|SSSSSSSSSS|082001|Cateterismo derecho con prueba farmacológica|BANCO DE SANGRE
+2024-11-05|07:00|43543534|SSSSSSSSSS|060103|Antígeno de superficie y anticuerpo core del virus de la hepatitis B|BANCO DE SANGRE
+2024-11-05|08:00|43543534|SSSSSSSSSS|082005|Sonda pleural, colocación|BANCO DE SANGRE
+2024-11-04|09:00|343243243432|ZZZZZZZZZZ|060103|Antígeno de superficie y anticuerpo core del virus de la hepatitis B|BANCO DE SANGRE
+2024-11-04|10:00|343243243432|ZZZZZZZZZZ|082002|Broncoscopía estándar|BANCO DE SANGRE
+2024-11-04|11:00|343243243432|ZZZZZZZZZZ|082004|Difusión|BANCO DE SANGRE
+2024-11-11|07:00|343243243432|ZZZZZZZZZZ|050010|Ecocardiograma transtorácico bidimensional|ECOCARDIOGRAFÍA
+2024-11-11|08:00|343243243432|ZZZZZZZZZZ|050115|Ecocardiograma transtorácico con estrés farmacologico|ECOCARDIOGRAFÍA
+2024-11-11|09:00|343243243432|ZZZZZZZZZZ|015010|Interconsulta a otras instituciones|CONSULTA EXTERNA
+2024-11-11|10:00|4432432432|YYYYYYYYY|060102|Antígeno-anticuerpo VIH|BANCO DE SANGRE
+2024-11-11|11:00|4432432432|YYYYYYYYY|082001|Cateterismo derecho|BANCO DE SANGRE
+2024-11-11|12:00|4432432432|YYYYYYYYY|050010|Ecocardiograma|ECOCARDIOGRAFÍA
+2024-11-18|07:00|4432432432|YYYYYYYYY|015003|Curación|CONSULTA EXTERNA
+2024-10-22|15:00|54665456443|fsdfsdfsfsd fsdfsfsfs fsdfsfsf|060102|Antígeno-anticuerpo VIH|BANCO DE SANGRE
+2024-10-22|16:00|54665456443|fsdfsdfsfsd fsdfsfsfs fsdfsfsf|000000|CARDIONEUMOLOGÍA|BANCO DE SANGRE
+2024-10-22|17:00|54665456443|fsdfsdfsfsd fsdfsfsfs fsdfsfsf|082001|Cateterismo derecho con prueba farmacológica|BANCO DE SANGRE
+2024-10-29|13:00|54665456443|fsdfsdfsfsd fsdfsfsfs fsdfsfsf|082002|Broncoscopía estándar|BANCO DE SANGRE
+2024-10-29|14:00|54665456443|fsdfsdfsfsd fsdfsfsfs fsdfsfsf|082004|Difusión|BANCO DE SANGRE
+2024-10-29|15:00|54665456443|fsdfsdfsfsd fsdfsfsfs fsdfsfsf|082007|Biopsia por aspiración|BANCO DE SANGRE
+2024-10-29|16:00|54665456443|fsdfsdfsfsd fsdfsfsfs fsdfsfsf|015003|Curación|CONSULTA EXTERNA
+2024-10-29|17:00|54665456443|fsdfsdfsfsd fsdfsfsfs fsdfsfsf|015009|Consulta externa, subsecuente|CONSULTA EXTERNA
+2024-10-25|09:00|458095034830|Javier Roldán Florez Navarro|060103|Antígeno de superficie y anticuerpo core del virus de la hepatitis B|BANCO DE SANGRE
+2024-10-25|10:00|458095034830|Javier Roldán Florez Navarro|082001|Cateterismo derecho con prueba farmacológica|BANCO DE SANGRE
+2024-10-25|11:00|458095034830|Javier Roldán Florez Navarro|082003|Espirometría simple|BANCO DE SANGRE
+2024-10-25|12:00|458095034830|Javier Roldán Florez Navarro|082007|Biopsia por aspiración|BANCO DE SANGRE
+2024-11-01|07:00|458095034830|Javier Roldán Florez Navarro|015003|Curación|CONSULTA EXTERNA
+2024-11-01|08:00|458095034830|Javier Roldán Florez Navarro|015010|Interconsulta a otras instituciones|CONSULTA EXTERNA
+2024-11-01|09:00|458095034830|Javier Roldán Florez Navarro|050012|Ecocardiograma Fetal|ECOCARDIOGRAFÍA
+2024-11-01|10:00|458095034830|Javier Roldán Florez Navarro|050115|Ecocardiograma transtorácico con estrés farmacologico|ECOCARDIOGRAFÍA
